@@ -1,2 +1,0 @@
-# alura-projeto-final
-sla
